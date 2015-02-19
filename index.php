@@ -29,5 +29,5 @@
         </div>
 		
 	<div>	<img src="img/img1.png" width="104" height="142" alt="test alt attribute img" > </div>
-	
+	<div>	<a href="https://appwebfacebook.herokuapp.com/connectionfacebook.php"> Connection à facebook </a> </div>
 </html>
