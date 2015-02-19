@@ -27,4 +27,7 @@
 	
 	<div class= "fb-like" data-show="true" data-width="450" data-show-faces="true">
         </div>
+		
+	<div>	<img src="img/img1.png" width="104" height="142" alt="test alt attribute img" > </div>
+	
 </html>
